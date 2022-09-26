@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.toplinks {
+  text-align: right;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+
+
+.searchbar
+{
+  border-color: #888888;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  display: block;
+  margin: 10px;
+  padding: 10px;
+  width: 500px;
+}
+
+.searchbutton
+{
+  background-color: #F8F9FA;
+  border-style: none;
+  margin: 11px 4px;
+  padding: 8px 16px;
+}
